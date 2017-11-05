@@ -1,0 +1,22 @@
+{
+  "name": "cursoNodeJS",
+  "version": "0.0.0",
+  "description": "Curso NodeJS desde lo basico hasta lo avanzado",
+  "main": "intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NubeAndoBo/cursoNodeJS.git"
+  },
+  "author": {
+    "name": "Angel Céspedes Quiroz",
+    "email": "angel@nubeando.com",
+    "url": "https://www.nubeando.com"
+  },
+  "homepage": "https://github.com/NubeAndoBo/cursoNodeJS",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
